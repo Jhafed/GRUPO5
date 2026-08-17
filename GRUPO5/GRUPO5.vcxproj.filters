@@ -37,9 +37,6 @@
     <ClCompile Include="pch.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="manuel_extra.cpp">
-      <Filter>Archivos de origen</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="app.ico">
