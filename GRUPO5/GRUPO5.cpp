@@ -2,10 +2,10 @@
 
 using namespace System;
 
-int main(array<System::String ^> ^args)
+int main(array<System::String^>^ args)
 {
-    return 0;
-}
+	return 0;
+};
 
 public ref class concatenacionn {
 	int a;
@@ -15,5 +15,5 @@ public ref class concatenacionn {
 		a = num1;
 		b = num2;
 		Console::WriteLine("La concatenación de los números {0} y {1} es: {2}{3}", a, b, a, b);
-	}
+	};
 };
